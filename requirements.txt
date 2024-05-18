@@ -1,0 +1,10 @@
+pandas
+numpy
+flask
+seaborn
+ipykernel
+scipy
+joblib
+threadpoolctl
+scikit-learn
+-e .
