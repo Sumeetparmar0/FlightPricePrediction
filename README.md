@@ -40,6 +40,8 @@ Developed an end-to-end machine learning pipeline using Python to predict future
 2. Exploratory Data Analysis (EDA)
 3. Building Predictive Models
 4. Model Evaluation and Validation
+5. Models used are: LinearRegression, Lasso, Ridge, Elasticnet, Descisiontree, Randomforest. the best model will be selected on bases of R2 score accuracy.
+
 Reminder: Data used in training the model is old (2022), if you want to train on latest data then please replace clendataset.csv file, having same columns and preferably well distributed 20,000 or more datapoints.
 
 ## Technologies Used
