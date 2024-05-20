@@ -49,11 +49,12 @@ Link: https://github.com/Sumeetparmar0/FlightPricePrediction
 
 ## Getting Started
 To get a local copy up and running, follow these steps:
-* For PowerBI Visualisation
+
+**For PowerBI Visualisation**
 - Download FlightPrice_analysis.pbix file.
 - Download Kaggle dataset and give path of csv file in power Query and load dataset.
 
-* For Python Predictive model
+**For Python Predictive model**
 1. Clone the repository to your local machine using the following command:
 git clone https://github.com/Sumeetparmar0/FlightPricePrediction
 
