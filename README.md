@@ -40,8 +40,7 @@ Developed an end-to-end machine learning pipeline using Python to predict future
 2. Exploratory Data Analysis (EDA)
 3. Building Predictive Models
 4. Model Evaluation and Validation
-
-Link: https://github.com/Sumeetparmar0/FlightPricePrediction
+Reminder: Data used in training the model is old (2022), if you want to train on latest data then please replace clendataset.csv file, having same columns and preferably well distributed 20,000 or more datapoints.
 
 ## Technologies Used
 - **Power BI**: For data visualization and dashboard creation
